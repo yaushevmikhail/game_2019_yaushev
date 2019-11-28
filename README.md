@@ -1,1 +1,2 @@
-# game_2019_yaushev
+# A simplified version of air hockey is implemented in this game. Collisions with racquets occur in the model that the racquet is stationary and after each collision the speed increases by 5%. For the correct operation of the program it is desirable to stop the racket before the hit, otherwise, if the racket will be superimposed on the ball, the colision will occur with a strange rebound. 
+# This work was done by Mikhail Yaushev, a 1st year student of DGAP MIPT 924 group
